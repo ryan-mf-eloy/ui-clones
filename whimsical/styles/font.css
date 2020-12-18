@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "DIN Next LT";
+  src: url("../fonts/DIN-Next-Medium.ttf");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "DIN Next LT";
+  src: url("../fonts/DIN-Next-Regular.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "DIN Next LT";
+  src: url("../fonts/Din-Next-Bold.ttf");
+  font-weight: 700;
+}

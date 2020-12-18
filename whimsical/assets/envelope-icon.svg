@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>email icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Marketing-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="email-icon" fill="#FFFFFF">
+            <path d="M21.9699223,1.6525249 C21.9896915,1.76537711 22,1.88148472 22,2 L22,14 C22,15.1045695 21.1045695,16 20,16 L2,16 C0.8954305,16 1.3527075e-16,15.1045695 0,14 L0,2 C-1.45139358e-17,1.88148472 0.0103084765,1.76537711 0.0300777092,1.6525249 L9.14653534,8.8154559 C10.2343693,9.67018254 11.7656307,9.67018254 12.8534647,8.8154559 L21.9699223,1.6525249 Z" id="Combined-Shape"></path>
+            <path d="M20.683454,0.119822266 L11.6178216,7.24281922 C11.2552102,7.5277281 10.7447898,7.5277281 10.3821784,7.24281922 L1.31654596,0.119822266 C1.52979118,0.0422886304 1.75995707,4.40951705e-17 2,0 L20,0 C20.2400429,-4.40951705e-17 20.4702088,0.0422886304 20.683454,0.119822266 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
