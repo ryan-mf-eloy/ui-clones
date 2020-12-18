@@ -6,3 +6,6 @@ Clones of mobile and web applications interfaces
 
 # Discord
 <img src="https://github.com/ryan-mf-eloy/ui-clones/blob/master/images/discord-home-clone.png" />
+
+# Whimsical
+<img src="https://github.com/ryan-mf-eloy/ui-clones/blob/master/images/whimsical.png" />
